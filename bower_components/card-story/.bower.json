@@ -15,14 +15,13 @@
     "polymer": "^2.0.0"
   },
   "homepage": "https://github.com/ChannelsNetwork/card-story",
-  "_release": "dd7ff73610",
+  "_release": "a1decba109",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "dd7ff73610da52d18ce03ae449cee56d5fbfaf01"
+    "commit": "a1decba109d2e4b85850121c63cafce0439d9267"
   },
   "_source": "https://github.com/ChannelsNetwork/card-story.git",
   "_target": "*",
-  "_originalSource": "ChannelsNetwork/card-story",
-  "_direct": true
+  "_originalSource": "ChannelsNetwork/card-story"
 }
