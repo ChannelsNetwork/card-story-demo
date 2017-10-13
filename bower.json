@@ -1,0 +1,11 @@
+{
+  "name": "card-story-demo",
+  "main": "index.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "card-story": "ChannelsNetwork/card-story"
+  },
+  "devDependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  }
+}

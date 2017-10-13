@@ -1,0 +1,6 @@
+{
+  "name": "card-story-demo",
+  "short_name": "card-story-demo",
+  "start_url": "/",
+  "display": "standalone"
+}
